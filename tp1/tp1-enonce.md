@@ -3,8 +3,8 @@
 ## Objectifs
 
 - Collaborer et prendre des décisions en équipe
-- Comprendre les commandes et le fonctionneemnt de base de Git
-- Utiliser des outils de planification et de gestion efficacement et de façon organisé
+- Comprendre les commandes et le fonctionnement de base de Git
+- Utiliser des outils de planification et de gestion efficacement et de façon organisée
 - Comprendre la structure de base du projet
 - Comprendre les principes fondamentaux d'une API REST
 - Respecter les conditions de succès demandées
@@ -12,16 +12,16 @@
 
 ## Travail demandé
 
-Pour les **parties 1 à 3**, nous vous demandons de répondre à l'aide d'un **document PDF** (remis sur monPortail) seulement pour les questions identifiées (:page_facing_up:). Pour le code, nous vous demandons de créer un **tag** nommé `remise1` (le nom doit être exact). C'est la version à ce tag qui sera corrigée. Si vous omettez d'indiquer le tag, la **note de 0** vous sera attribué pour la partie 4. Vous devrez également remettre le **contrat d'équipe** sur monPortail, rempli et signé.
+Pour les **parties 1 à 3**, nous vous demandons de répondre à l'aide d'un **document PDF** (remis sur monPortail) seulement pour les questions identifiées (:page_facing_up:). Pour le code, nous vous demandons de créer un **tag** nommé `remise1` (le nom doit être exact). C'est la version liée à ce tag qui sera corrigée. Si vous omettez d'indiquer le tag, la **note de 0** vous sera attribuée pour la partie 4. Vous devrez également remettre le **contrat d'équipe** sur monPortail, rempli et signé.
 
 ### Partie 1 - Ententes d'équipes (20%)
 
-1. **Discutter des outils qui vous seront nécéssaires. Cette discussion permettra de facilement remplir le contrat d'équipe.**
+1. **Discuter des outils qui vous seront nécéssaires. Cette discussion permettra de facilement remplir le contrat d'équipe.**
     1. Parlez en équipe des outils de **communication** (vidéo, messagerie, etc.) que vous aimez ou détestez utiliser, et pourquoi.
     2. Parlez en équipe des outils de **gestion** (des tâches, du temps, etc.) que vous aimez ou détestez utiliser, et pourquoi.
     3. Parlez en équipe des outils de **développement** (IDE, formattage, etc.) que vous aimez ou détestez utiliser, et pourquoi.
 2. **Remplir le contrat d'équipe**
-    1. Indiquez tous les outils auxquels vous vous êtes entendu d'utiliser
+    1. Indiquez tous les outils que vous avez convenu d'utiliser
     2. Indiquez les autres ententes d'équipes
 3. **Créer et remplir un fichier `.gitignore` à la racine de votre projet.**
     1. Ce dernier devrait respecter les *ignorances* standards. Discuttez-en en équipe, argumentez, décidez. :warning: **Attention**: des manipulation git additionnelles pourraient être nécéssaire afin de mettre à jour l'arbre de fichier.
@@ -46,7 +46,7 @@ Cette partie renferme quelques questions quand à l'utilisation de `git`. Veuill
 
 ### Partie 3 - Planification (30%)
 
-Avant d'entammer la programmation, nous vous demandons de lire attentivement les requis de la partie 4. Nous vous demandons ensuite de planifier vos tâches avec Github Project.
+Avant d'entamer la programmation, nous vous demandons de lire attentivement les exigences de la partie 4. Nous vous demandons ensuite de planifier vos tâches avec Github Project.
 
 1. :page_facing_up: Créez un *milestone* pour la remise du tp1 et insérez une capture d'écran afin de montrer les information du milestone ainsi que les issues.
 2. :page_facing_up: Créez des issues afin de suivre votre progrès et de vous séparer la tâche. :warning: **Attention** Ce n'est pas nécéssairement 1 issue pour 1 feature. Assurez-vous également d'y remplir l'ensemble des parties tel que vu en classe. Insérez une capture d'écran par issue. 
