@@ -12,7 +12,7 @@
 
 ## À remettre
 
-Les question identifiées avec l'émoticône :scroll: devront être réponduent à l'aide d'un **document PDF** nommé `tp1.pdf` et remis dans le dossier `exercices` de votre repo de projet. Afin d'officialiser votre remise, nous vous demandons de créer un **tag** nommé `remise1` (**le nom doit être exact**). C'est la version liée à ce tag qui sera corrigée. Si vous omettez d'indiquer le tag, la **note de 0** vous sera attribuée. Vous devrez également remettre le **contrat d'équipe** par courriel au professeur.
+Les question identifiées avec l'émoticône :scroll: (ainsi que leurs sous-questions) devront être répondu à l'aide d'un **document PDF** nommé `tp1.pdf` et remis dans le dossier `exercices` de votre repo de projet. Afin d'officialiser votre remise, nous vous demandons de créer un **tag** nommé `remise1` (**le nom doit être exact**). C'est la version liée à ce tag qui sera corrigée. Si vous omettez d'indiquer le tag, la **note de 0** vous sera attribuée. Vous devrez également remettre le **contrat d'équipe** par courriel au professeur.
 
 ## Partie 1 - Conventions d'équipes (20%)
 
@@ -50,9 +50,9 @@ Cette partie renferme quelques questions concernant l'utilisation de `git`.
 3. :scroll: **Dans les situations qui suivent, montrez la liste des commandes nécéssaires afin d'atteindre le but. Si le but est impossible à atteindre, expliquez pourquoi et donnez tout de même une piste de solution.**
     1. J'ai poussé mon commit trop tôt et il y avait des erreur de compilation. Tout le monde de mon équipe est en train de travailler sur le projet (dans la même branche) et envoient des changements rapidement. Je viens de corriger l'erreur sur mon poste de travail, mais je n'ai pas encore commité ni ajouter mes modifications. **But:** pousser la modification.
     2. J'ai poussé mon commit trop tôt et il y avait des erreur de compilation. Tout le monde de mon équipe est en train de travailler sur le projet (dans la même branche) et envoient des changements rapidement. Je viens de corriger l'erreur sur mon poste de travail, mais je n'ai pas encore commité ni ajouter mes modifications. **But:** pousser la modification, *mais en remplaçant le commit erroné.*
-4. Pour cette question, on vous demande de vous référez à [ce repo](https://github.com/glo2003/H21-tp1-git), que vous pourrez cloner sur vos postes. **On vous demande d'intégrer les changements de toutes les branches dans la branche principale `main`. Vous devrez tenter de comprendre les changements qui ont été effectués en fonction du contenu présent sur Github.** Une fois les manipulations terminées :
-    - :scroll: Remettez une capture d'écran montrant la sortie au terminal lors de l'exécution de la commande `git log --graph --decorate --pretty=oneline --abbrev-commit --all`.
-    - :scroll: Remettez une capture d'écran montrant le contenu du fichier `liste.txt`.
+4. :scroll: Pour cette question, on vous demande de vous référez à [ce repo](https://github.com/glo2003/H21-tp1-git), que vous pourrez cloner sur vos postes. **On vous demande d'intégrer les changements de toutes les branches dans la branche principale `main`. Vous devrez tenter de comprendre les changements qui ont été effectués en fonction du contenu présent sur Github.** Une fois les manipulations terminées :
+    - Remettez une capture d'écran montrant la sortie au terminal lors de l'exécution de la commande `git log --graph --decorate --pretty=oneline --abbrev-commit --all`.
+    - Remettez une capture d'écran montrant le contenu du fichier `liste.txt`.
 
 ## Partie 3 - Planification (30%)
 
