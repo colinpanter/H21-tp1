@@ -56,7 +56,7 @@ Cette partie renferme quelques questions concernant l'utilisation de `git`.
 
 ## Partie 3 - Planification (30%)
 
-**Avant** d'entamer la programmation, nous vous demandons de lire attentivement les exigences de la **partie 4**. Nous vous demandons ensuite de planifier vos tâches avec **Github**.
+**Avant** d'entamer la programmation, nous vous demandons de lire attentivement les exigences de la **partie 4**. Nous vous demandons ensuite de planifier vos tâches *de développement logiciel* avec **Github**. 
 
 1. :scroll: **Créez un *milestone*** pour la remise du tp1. Insérez une capture d'écran afin de montrer les informations du milestone ainsi que les issues qu'il contient.
 2. :scroll: **Créez des *issues*** afin de suivre votre progrès et de vous séparer la tâche. :warning: **Attention** Ce n'est pas nécéssairement 1 issue pour 1 feature. Assurez-vous également d'y remplir l'ensemble des parties tel que vu en laboratoire. Insérez une capture d'écran par issue. 
