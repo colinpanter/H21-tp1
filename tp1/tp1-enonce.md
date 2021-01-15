@@ -12,7 +12,7 @@
 
 ## À remettre
 
-Les question identifiées avec l'émoticône :scroll: (ainsi que leurs sous-questions) devront être répondu à l'aide d'un **document PDF** nommé `tp1.pdf` et remis dans le dossier `exercices` de votre repo de projet. Afin d'officialiser votre remise, nous vous demandons de créer un **tag** nommé `remise1` (**le nom doit être exact**). C'est la version liée à ce tag qui sera corrigée. Si vous omettez d'indiquer le tag, la **note de 0** vous sera attribuée. Vous devrez également remettre le **contrat d'équipe** par courriel au professeur.
+Les question identifiées avec l'émoticône :scroll: (ainsi que leurs sous-questions) devront être répondues à l'aide du fichier `exercices/tp1.md` déjà présent dans votre repo de projet. Lorsque votre travail sera terminé, nous vous demandons de créer un **tag** nommé `remise1` (**le nom doit être exact**). C'est la version liée à ce tag qui sera corrigée. Si vous omettez d'indiquer le tag, la **note de 0** vous sera attribuée. Vous devrez également remettre le **contrat d'équipe** par courriel au professeur.
 
 ## Partie 1 - Conventions d'équipes (20%)
 
@@ -23,7 +23,7 @@ Les question identifiées avec l'émoticône :scroll: (ainsi que leurs sous-ques
 2. **Remplir le contrat d'équipe**
     - Indiquez tous les outils que vous avez convenu d'utiliser
     - Indiquez les autres ententes d'équipes
-    - :e-mail: Signez le contrat et **remettez-le au professeur par courriel** (1 par équipe).
+    - :email: Signez le contrat et **remettez-le au professeur par courriel** (1 par équipe).
 3. **Créer et remplir un fichier `.gitignore` à la racine de votre projet.**
     - Ce dernier doit respecter les *ignorances* standards. Discuttez-en en équipe, argumentez, décidez. :warning: **Attention**: nous vérifierons si les fichiers ignorés sont bien absents de votre arbre de fichier.
     - :scroll: En quelques phrases, expliquez d'où vous vous êtes inspirés (Internet, votre compagnie, vous-mêmes) et pourquoi vous avez décidé d'ignorer ces fichiers (vous pouvez être général, pas besoin d'expliquer pour *chaque* fichier).
