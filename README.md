@@ -63,7 +63,7 @@ Cette partie renferme quelques questions concernant l'utilisation de `git`.
 
 1. :scroll: **Créez un *milestone*** pour la remise du tp1. Insérez une capture d'écran afin de montrer les informations du milestone ainsi que les issues qu'il contient.
 2. :scroll: **Créez des *issues*** afin de suivre votre progrès et de vous séparer la tâche. :warning: **Attention** Ce n'est pas nécéssairement 1 issue pour 1 feature. Assurez-vous également d'y remplir l'ensemble des parties tel que vu en laboratoire (l'issue doit au moins être en cours). Insérez une capture d'écran par issue. 
-3. :scroll: **Créez des *PRs*** afin de suivre les changements effectués ou en attente. Assurez-vous également d'y remplir l'ensemble des parties tel que vu en laboratoire. Insérez une capture d'écran par PRs **uen fois résolue**. Vous n'avez pas à *scroller* afin de montrer le contenu des activités et commentaires.
+3. :scroll: **Créez des *PRs*** afin de suivre les changements effectués ou en attente. Assurez-vous également d'y remplir l'ensemble des parties tel que vu en laboratoire. Insérez une capture d'écran par PRs **une fois résolue**. Vous n'avez pas à *scroller* afin de montrer le contenu des activités et commentaires.
 4. :scroll: **Créez un *Github Project*** contenant vos issues. Insérez une capture d'écran montrant le tableau résultant. Elle peut être effectuée au début comme à la fin de votre progrès. Nous devons au moins y voir les colonnes ainsi que quelques issues. Une seule capture suffit (pas besoin de *scroller*).
 
 ## Partie 4 - Code (20%)
