@@ -42,17 +42,18 @@ Cette partie renferme quelques questions concernant l'utilisation de `git`.
 1. :scroll: **Quelle est la différence entre les commandes `rebase` et `merge`?**
     - Expliquez vous en quelques mots.
     - Remettez un graphique d'un arbre de commits simple à 2 branches, puis les résultats après un merge et après un rebase.
-2. :scroll: **Dans les cas suivants, quelle(s) méthode(s) devrait-on favoriser?**
+2. :scroll: **Dans les cas suivants, quelle(s) méthode(s) devrait-on favoriser entre `rebase` et `merge` pour l'intégration de nouveau contenu?**
     1. Je travaille seul sur un projet, et je veux que mon arbre soit le plus propre possible.
     2. J'ai poussé un mot de passe secret dans mes fichiers par accident, et je veux pouvoir l'effacer du serveur.
     3. Je travaille dans une grosse équipe, où chaque tâche n'est attribuée qu'à une seule personne.
-    4. Je dois intégrer du code provenant de multiple branches différentes.
-3. :scroll: **Dans les situations qui suivent, montrez la liste des commandes nécéssaires afin d'atteindre le but. Si le but est impossible à atteindre, expliquez pourquoi et donnez tout de même une piste de solution.**
-    1. J'ai poussé mon commit trop tôt et il y avait des erreur de compilation. Tout le monde de mon équipe est en train de travailler sur le projet (dans la même branche) et envoient des changements rapidement. Je viens de corriger l'erreur sur mon poste de travail, mais je n'ai pas encore commité ni ajouter mes modifications. **But:** pousser la modification.
-    2. J'ai poussé mon commit trop tôt et il y avait des erreur de compilation. Tout le monde de mon équipe est en train de travailler sur le projet (dans la même branche) et envoient des changements rapidement. Je viens de corriger l'erreur sur mon poste de travail, mais je n'ai pas encore commité ni ajouter mes modifications. **But:** pousser la modification, *mais en remplaçant le commit erroné.*
-4. :scroll: Pour cette question, on vous demande de vous référez à [ce repo](https://github.com/glo2003/H21-tp1-git), que vous pourrez cloner sur vos postes. **On vous demande d'intégrer les changements de toutes les branches dans la branche principale `main`. Vous devrez tenter de comprendre les changements qui ont été effectués en fonction du contenu présent sur Github.** Une fois les manipulations terminées :
+    4. Je veux garder l'historique le plus complet possible des branches et de leur intégration.
+3. :scroll: **Dans les situations qui suivent, montrez la liste des commandes nécéssaires afin d'atteindre le but. Si le but est impossible à atteindre ou n'est pas recommandé, expliquez pourquoi et donnez tout de même une solution de remplacement.**
+    1. J'ai poussé mon commit trop tôt et il y avait des erreur de compilation. Tout le monde de mon équipe (moi inclus) est en train de travailler sur le projet (dans la même branche). Je viens de corriger l'erreur sur mon poste de travail, mais je n'ai encore ni ajouté, ni commité, ni poussé mes modifications. Il se pourrait que mes coéquipiers aient poussé du nouveau code pendant ce temps. **But:** pousser la modification.
+    2. Même situation que **1**. **But:** pousser la modification, *mais en remplaçant le commit erroné* afin que mes coéquipiers ne me jugent pas.
+4. :scroll: Pour cette question, on vous demande de vous référez à [ce repo](https://github.com/glo2003/H21-tp1-git), que vous pourrez cloner sur vos postes. **On vous demande d'intégrer les changements de toutes les branches dans la branche principale `main`. Vous devrez comprendre les changements qui ont été effectués en fonction du contenu présent sur le repo Github** (ces changements sont très simples). Une fois les manipulations terminées :
     - Remettez une capture d'écran montrant la sortie au terminal lors de l'exécution de la commande `git log --graph --decorate --pretty=oneline --abbrev-commit --all`.
     - Remettez une capture d'écran montrant le contenu du fichier `liste.txt`.
+    - Remettez une capture d'écran montrant la liste complète de vos commandes. :warning: On s'attend au minimum de commandes possible.
 
 ## Partie 3 - Planification (30%)
 
