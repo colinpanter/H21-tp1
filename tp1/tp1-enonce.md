@@ -10,11 +10,11 @@
 - Respecter les conditions de succès demandées
 - Être capable de mettre en place un nouveau module dans le code existant
 
-## Travail demandé
+## À remettre
 
 Les question identifiées avec l'émoticône :page_facing_up: devront être réponduent à l'aide d'un **document PDF** nommé `tp1.pdf` et remis dans le dossier `exercices` de votre repo de projet. Afin d'officialiser votre remise, nous vous demandons de créer un **tag** nommé `remise1` (**le nom doit être exact**). C'est la version liée à ce tag qui sera corrigée. Si vous omettez d'indiquer le tag, la **note de 0** vous sera attribuée. Vous devrez également remettre le **contrat d'équipe** par courriel au professeur.
 
-### Partie 1 - Conventions d'équipes (20%)
+## Partie 1 - Conventions d'équipes (20%)
 
 1. **Discuter des outils qui vous seront nécéssaires. Cette discussion permettra de facilement remplir le contrat d'équipe.**
     - Parlez en équipe des outils de **communication** (vidéo, messagerie, etc.) que vous aimez ou détestez utiliser, et pourquoi.
@@ -35,7 +35,7 @@ Les question identifiées avec l'émoticône :page_facing_up: devront être rép
     - Discuttez des sections principales et secondaires que devrait contenir une PR. :warning: **Attention**: ne pas copier l'exemple du chargé de laboratoire!
     - Le template **doit** se trouver dans le dossier `.github/`.
 
-### Partie 2 - Git (30%)
+## Partie 2 - Git (30%)
 
 Cette partie renferme quelques questions concernant l'utilisation de `git`.
 
@@ -54,7 +54,7 @@ Cette partie renferme quelques questions concernant l'utilisation de `git`.
     - :page_facing_up: Remettez une capture d'écran montrant la sortie au terminal lors de l'exécution de la commande `git log --graph --decorate --pretty=oneline --abbrev-commit --all`.
     - :page_facing_up: Remettez une capture d'écran montrant le contenu du fichier `liste.txt`.
 
-### Partie 3 - Planification (30%)
+## Partie 3 - Planification (30%)
 
 **Avant** d'entamer la programmation, nous vous demandons de lire attentivement les exigences de la **partie 4**. Nous vous demandons ensuite de planifier vos tâches avec **Github**.
 
@@ -63,13 +63,13 @@ Cette partie renferme quelques questions concernant l'utilisation de `git`.
 3. :page_facing_up: **Créez des *PRs*** afin de suivre les changements effectués ou en attente. Assurez-vous également d'y remplir l'ensemble des parties tel que vu en laboratoire. Insérez une capture d'écran par PRs **uen fois résolue**. Vous n'avez pas à *scroller* afin de montrer le contenu des activités et commentaires.
 4. :page_facing_up: **Créez un *Github Project*** contenant vos issues. Insérez une capture d'écran montrant le tableau résultant. Elle peut être effectuée au début comme à la fin de votre progrès. Nous devons au moins y voir les colonnes ainsi que quelques issues. Une seule capture suffit (pas besoin de *scroller*).
 
-### Partie 4 - Code (20%)
+## Partie 4 - Code (20%)
 
 Pour cette partie, vous devrez développer les features demandées. Les formats de requêtes et réponse utilisent la notation typée de Typescript. **On s'attend à une réponse dans le format JSON pour l'ensemble des appels à l'API**. Des tests automatisés vérifieront les bons retours de votre API. Nous corrigerons également la **clarté** (clean code), l'**organisation** et l'**uniformisation** du code.
 
 :warning: Pour cette remise, nous demandons de **laisser les exceptions se rendre à la réponse HTTP** (donc ne créez **pas** d'exception mappers). Jetty les transformeront automatiquement en erreurs 500 (ce qui sera vérifié par les tests automatisés). La gestion des exceptions sera vue au TP2.
 
-#### Feature 1
+### Feature 1
 
 En temps qu'utilisateur du service, je désire pouvoir ajouter un item en vente.
 
@@ -97,7 +97,7 @@ Headers:
 ... où le header `Location` contient l'URL vers le nouvel item publié.
 
 
-#### Feature 2
+### Feature 2
 
 En temps qu'utilisateur du service, je désire pouvoir visionner les détails d'une offre publiée.
 
