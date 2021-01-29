@@ -102,7 +102,7 @@ Headers:
 
 ### Feature 2
 
-En temps qu'utilisateur du service, je désire pouvoir visionner les détails d'une offre publiée.
+En temps qu'utilisateur du service, je désire pouvoir visionner l'ensemble des offres publiées.
 
 **Requête**
 ```
