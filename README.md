@@ -106,7 +106,7 @@ En temps qu'utilisateur du service, je désire pouvoir visionner les détails d'
 
 **Requête**
 ```
-HTTP GET /inventory/{id}
+HTTP GET /inventory
 ```
 
 **Réponse**
