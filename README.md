@@ -97,7 +97,7 @@ Headers:
   Location: string
 ```
 
-... où le header `Location` contient l'URL vers le nouvel item publié.
+... où le header `Location` contient l'URL vers le nouvel item publié (`http://localhost:8080/api/inventory/{id}`)
 
 
 ### Feature 2
