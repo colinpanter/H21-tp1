@@ -84,11 +84,13 @@ HTTP POST /inventory
 {
   name: string,
   description: string,
-  initialPrice: number, // 2 decimals
+  initialPrice: number, // arrondi à 2 décimales
   startTime: datetime, // ISO-8601 at UTC
   duration: number // milliseconds
 }
 ```
+
+> Pas besoin d'une exception si le montant dépasse 2 décimales. Simplement arrondir.
 
 **Réponse**
 ```
@@ -98,7 +100,6 @@ Headers:
 ```
 
 ... où le header `Location` contient l'URL vers le nouvel item publié (`http://localhost:8080/api/inventory/{id}`)
-
 
 ### Feature 2
 
@@ -120,8 +121,8 @@ HTTP 200 OK
       id: string,
       name: string,
       description: string,
-      initialPrice: number, // 2 decimals
-      currentPrice: number, // 2 decimals
+      initialPrice: number, // arrondi à 2 décimales
+      currentPrice: number, // arrondi à 2 décimales
       startTime: datetime, // ISO-8601 at UTC
       endTime: datetime // ISO-8601 at UTC
     }
